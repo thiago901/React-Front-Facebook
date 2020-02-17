@@ -1,0 +1,18 @@
+.data-comment{
+    display: flex;
+    align-items: flex-start;
+}
+.img-user{
+    width: 30px;
+    margin-right: 20px;
+    border-radius: 50%;
+}
+.comment{
+    margin-top: 30px;
+}
+.text-comment{
+    background-color: #eee;
+    border-radius: 20px;
+    padding: 15px;
+    line-height: 1.4;
+}

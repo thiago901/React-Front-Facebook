@@ -1,0 +1,29 @@
+
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #3b5998;
+    color: #fff;
+    padding: 20px;
+}
+.title{
+    font-size: 200%;
+    align-items: center;
+    font-weight: bolder;
+    margin-left: 10px;
+}
+.profile{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.profile-title{
+    align-items: center;
+    margin-right: 10px;
+}
+.img-user-profile{
+    width: 40px;
+    border-radius: 50%;
+}

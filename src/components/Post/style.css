@@ -1,0 +1,38 @@
+
+.post{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    width: 70%;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;    
+}
+.data-post{
+    padding: 20px 0 20px 0;
+    border-bottom: 1px solid #eee;
+}
+.img-user-profile{
+    width: 50px;
+    margin-right: 20px;
+}
+.user{
+    display: flex;
+    align-items: center;
+
+}
+.user-data{
+    padding: 10px;
+    text-align: left;
+}
+.name{
+    font-weight: bolder;
+}
+.date{
+    font-size: 80%;
+    color: #ccc;
+}
+.text-post{
+    margin-top: 10px;
+    line-height: 1.4;
+}
